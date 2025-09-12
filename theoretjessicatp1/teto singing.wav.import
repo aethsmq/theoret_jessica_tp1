@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c8qa37j5wvenm"
+path="res://.godot/imported/teto singing.wav-f45eaf6f4b3d3362d5f668035a0d7491.sample"
+
+[deps]
+
+source_file="res://teto singing.wav"
+dest_files=["res://.godot/imported/teto singing.wav-f45eaf6f4b3d3362d5f668035a0d7491.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
