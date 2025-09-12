@@ -1467,12 +1467,12 @@ toggle_mode = true
 text = "teto!"
 
 [node name="TextEdit" type="TextEdit" parent="."]
-offset_left = 378.0
-offset_top = 19.0
-offset_right = 814.0
-offset_bottom = 65.0
+offset_left = 353.0
+offset_top = 17.0
+offset_right = 824.0
+offset_bottom = 63.0
 theme_override_font_sizes/font_size = 20
-text = "Fait les chanter en appuyant sur 1 et 2!!"
+text = "appuyer sur 1 ou 2 pour les faire chanter!! >⩊<"
 
 [connection signal="pressed" from="AudioStreamPlayer2D2/Buttonteto" to="." method="_on_buttonteto_pressed"]
 [connection signal="pressed" from="AudioStreamPlayer2D/Buttonmiku" to="." method="_on_buttonmiku_pressed"]
