@@ -1,5 +1,5 @@
-miku and teto dancing!!
-you can click on ther names to makes them dance!
-and click on the side ones for making them sing!
-clcik on 1 or 2 to also make them sing!
+Miku et Teto dansent !
+Cliquez sur leurs noms pour les faire danser !
+Et cliquez sur ceux à côté pour les faire chanter !
+Cliquez sur 1 ou 2 pour les faire chanter aussi !
 𐔌՞. .՞𐦯!!
